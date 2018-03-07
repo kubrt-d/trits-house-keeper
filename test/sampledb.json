@@ -1,0 +1,583 @@
+{
+  "cities": [
+    "SHANGHAI",
+    "BEIJING",
+    "DELHI",
+    "LAGOS",
+    "TIANJIN",
+    "KARACHI",
+    "ISTANBUL",
+    "TOKYO",
+    "GUANGZHOU",
+    "MUMBAI",
+    "MOSCOW",
+    "SAOPAULO",
+    "LAHORE",
+    "SHENZHEN",
+    "JAKARTA",
+    "SEOUL",
+    "WUHAN",
+    "KINSHASA",
+    "CAIRO",
+    "DHAKA",
+    "MEXICOCITY",
+    "LIMA",
+    "LONDON"
+  ],
+  "boards": [
+    {
+      "board": "SHANGHAI",
+      "created": null,
+      "changed": null,
+      "bets": {
+        "I": null,
+        "F": [],
+        "S": [],
+        "G": []
+      },
+      "status": -1,
+      "flip_treshold": 3,
+      "nominal": 0,
+      "triangle": {
+        "sides": {
+          "F": 0,
+          "S": 0,
+          "G": 0
+        }
+      },
+      "bonus": 0,
+      "last_player": 0
+    },
+    {
+      "board": "BEIJING",
+      "created": null,
+      "changed": null,
+      "bets": {
+        "I": null,
+        "F": [],
+        "S": [],
+        "G": []
+      },
+      "status": -1,
+      "flip_treshold": 3,
+      "nominal": 0,
+      "triangle": {
+        "sides": {
+          "F": 0,
+          "S": 0,
+          "G": 0
+        }
+      },
+      "bonus": 0,
+      "last_player": 0
+    },
+    {
+      "board": "DELHI",
+      "created": null,
+      "changed": null,
+      "bets": {
+        "I": null,
+        "F": [],
+        "S": [],
+        "G": []
+      },
+      "status": -1,
+      "flip_treshold": 3,
+      "nominal": 0,
+      "triangle": {
+        "sides": {
+          "F": 0,
+          "S": 0,
+          "G": 0
+        }
+      },
+      "bonus": 0,
+      "last_player": 0
+    },
+    {
+      "board": "LAGOS",
+      "created": null,
+      "changed": null,
+      "bets": {
+        "I": null,
+        "F": [],
+        "S": [],
+        "G": []
+      },
+      "status": -1,
+      "flip_treshold": 3,
+      "nominal": 0,
+      "triangle": {
+        "sides": {
+          "F": 0,
+          "S": 0,
+          "G": 0
+        }
+      },
+      "bonus": 0,
+      "last_player": 0
+    },
+    {
+      "board": "TIANJIN",
+      "created": null,
+      "changed": null,
+      "bets": {
+        "I": null,
+        "F": [],
+        "S": [],
+        "G": []
+      },
+      "status": -1,
+      "flip_treshold": 3,
+      "nominal": 0,
+      "triangle": {
+        "sides": {
+          "F": 0,
+          "S": 0,
+          "G": 0
+        }
+      },
+      "bonus": 0,
+      "last_player": 0
+    },
+    {
+      "board": "KARACHI",
+      "created": null,
+      "changed": null,
+      "bets": {
+        "I": null,
+        "F": [],
+        "S": [],
+        "G": []
+      },
+      "status": -1,
+      "flip_treshold": 3,
+      "nominal": 0,
+      "triangle": {
+        "sides": {
+          "F": 0,
+          "S": 0,
+          "G": 0
+        }
+      },
+      "bonus": 0,
+      "last_player": 0
+    },
+    {
+      "board": "ISTANBUL",
+      "created": null,
+      "changed": null,
+      "bets": {
+        "I": null,
+        "F": [],
+        "S": [],
+        "G": []
+      },
+      "status": -1,
+      "flip_treshold": 3,
+      "nominal": 0,
+      "triangle": {
+        "sides": {
+          "F": 0,
+          "S": 0,
+          "G": 0
+        }
+      },
+      "bonus": 0,
+      "last_player": 0
+    },
+    {
+      "board": "TOKYO",
+      "created": null,
+      "changed": null,
+      "bets": {
+        "I": null,
+        "F": [],
+        "S": [],
+        "G": []
+      },
+      "status": -1,
+      "flip_treshold": 3,
+      "nominal": 0,
+      "triangle": {
+        "sides": {
+          "F": 0,
+          "S": 0,
+          "G": 0
+        }
+      },
+      "bonus": 0,
+      "last_player": 0
+    },
+    {
+      "board": "GUANGZHOU",
+      "created": null,
+      "changed": null,
+      "bets": {
+        "I": null,
+        "F": [],
+        "S": [],
+        "G": []
+      },
+      "status": -1,
+      "flip_treshold": 3,
+      "nominal": 0,
+      "triangle": {
+        "sides": {
+          "F": 0,
+          "S": 0,
+          "G": 0
+        }
+      },
+      "bonus": 0,
+      "last_player": 0
+    },
+    {
+      "board": "MUMBAI",
+      "created": null,
+      "changed": null,
+      "bets": {
+        "I": null,
+        "F": [],
+        "S": [],
+        "G": []
+      },
+      "status": -1,
+      "flip_treshold": 3,
+      "nominal": 0,
+      "triangle": {
+        "sides": {
+          "F": 0,
+          "S": 0,
+          "G": 0
+        }
+      },
+      "bonus": 0,
+      "last_player": 0
+    },
+    {
+      "board": "MOSCOW",
+      "created": null,
+      "changed": null,
+      "bets": {
+        "I": null,
+        "F": [],
+        "S": [],
+        "G": []
+      },
+      "status": -1,
+      "flip_treshold": 3,
+      "nominal": 0,
+      "triangle": {
+        "sides": {
+          "F": 0,
+          "S": 0,
+          "G": 0
+        }
+      },
+      "bonus": 0,
+      "last_player": 0
+    },
+    {
+      "board": "SAOPAULO",
+      "created": null,
+      "changed": null,
+      "bets": {
+        "I": null,
+        "F": [],
+        "S": [],
+        "G": []
+      },
+      "status": -1,
+      "flip_treshold": 3,
+      "nominal": 0,
+      "triangle": {
+        "sides": {
+          "F": 0,
+          "S": 0,
+          "G": 0
+        }
+      },
+      "bonus": 0,
+      "last_player": 0
+    },
+    {
+      "board": "LAHORE",
+      "created": null,
+      "changed": null,
+      "bets": {
+        "I": null,
+        "F": [],
+        "S": [],
+        "G": []
+      },
+      "status": -1,
+      "flip_treshold": 3,
+      "nominal": 0,
+      "triangle": {
+        "sides": {
+          "F": 0,
+          "S": 0,
+          "G": 0
+        }
+      },
+      "bonus": 0,
+      "last_player": 0
+    },
+    {
+      "board": "SHENZHEN",
+      "created": null,
+      "changed": null,
+      "bets": {
+        "I": null,
+        "F": [],
+        "S": [],
+        "G": []
+      },
+      "status": -1,
+      "flip_treshold": 3,
+      "nominal": 0,
+      "triangle": {
+        "sides": {
+          "F": 0,
+          "S": 0,
+          "G": 0
+        }
+      },
+      "bonus": 0,
+      "last_player": 0
+    },
+    {
+      "board": "JAKARTA",
+      "created": null,
+      "changed": null,
+      "bets": {
+        "I": null,
+        "F": [],
+        "S": [],
+        "G": []
+      },
+      "status": -1,
+      "flip_treshold": 3,
+      "nominal": 0,
+      "triangle": {
+        "sides": {
+          "F": 0,
+          "S": 0,
+          "G": 0
+        }
+      },
+      "bonus": 0,
+      "last_player": 0
+    },
+    {
+      "board": "SEOUL",
+      "created": null,
+      "changed": null,
+      "bets": {
+        "I": null,
+        "F": [],
+        "S": [],
+        "G": []
+      },
+      "status": -1,
+      "flip_treshold": 3,
+      "nominal": 0,
+      "triangle": {
+        "sides": {
+          "F": 0,
+          "S": 0,
+          "G": 0
+        }
+      },
+      "bonus": 0,
+      "last_player": 0
+    },
+    {
+      "board": "WUHAN",
+      "created": null,
+      "changed": null,
+      "bets": {
+        "I": null,
+        "F": [],
+        "S": [],
+        "G": []
+      },
+      "status": -1,
+      "flip_treshold": 3,
+      "nominal": 0,
+      "triangle": {
+        "sides": {
+          "F": 0,
+          "S": 0,
+          "G": 0
+        }
+      },
+      "bonus": 0,
+      "last_player": 0
+    },
+    {
+      "board": "KINSHASA",
+      "created": null,
+      "changed": null,
+      "bets": {
+        "I": null,
+        "F": [],
+        "S": [],
+        "G": []
+      },
+      "status": -1,
+      "flip_treshold": 3,
+      "nominal": 0,
+      "triangle": {
+        "sides": {
+          "F": 0,
+          "S": 0,
+          "G": 0
+        }
+      },
+      "bonus": 0,
+      "last_player": 0
+    },
+    {
+      "board": "CAIRO",
+      "created": null,
+      "changed": null,
+      "bets": {
+        "I": null,
+        "F": [],
+        "S": [],
+        "G": []
+      },
+      "status": -1,
+      "flip_treshold": 3,
+      "nominal": 0,
+      "triangle": {
+        "sides": {
+          "F": 0,
+          "S": 0,
+          "G": 0
+        }
+      },
+      "bonus": 0,
+      "last_player": 0
+    },
+    {
+      "board": "DHAKA",
+      "created": null,
+      "changed": null,
+      "bets": {
+        "I": null,
+        "F": [],
+        "S": [],
+        "G": []
+      },
+      "status": -1,
+      "flip_treshold": 3,
+      "nominal": 0,
+      "triangle": {
+        "sides": {
+          "F": 0,
+          "S": 0,
+          "G": 0
+        }
+      },
+      "bonus": 0,
+      "last_player": 0
+    },
+    {
+      "board": "MEXICOCITY",
+      "created": null,
+      "changed": null,
+      "bets": {
+        "I": null,
+        "F": [],
+        "S": [],
+        "G": []
+      },
+      "status": -1,
+      "flip_treshold": 3,
+      "nominal": 0,
+      "triangle": {
+        "sides": {
+          "F": 0,
+          "S": 0,
+          "G": 0
+        }
+      },
+      "bonus": 0,
+      "last_player": 0
+    },
+    {
+      "board": "LIMA",
+      "created": null,
+      "changed": null,
+      "bets": {
+        "I": null,
+        "F": [],
+        "S": [],
+        "G": []
+      },
+      "status": -1,
+      "flip_treshold": 3,
+      "nominal": 0,
+      "triangle": {
+        "sides": {
+          "F": 0,
+          "S": 0,
+          "G": 0
+        }
+      },
+      "bonus": 0,
+      "last_player": 0
+    },
+    {
+      "board": "LONDON",
+      "created": null,
+      "changed": null,
+      "bets": {
+        "I": null,
+        "F": [],
+        "S": [],
+        "G": []
+      },
+      "status": -1,
+      "flip_treshold": 3,
+      "nominal": 0,
+      "triangle": {
+        "sides": {
+          "F": 0,
+          "S": 0,
+          "G": 0
+        }
+      },
+      "bonus": 0,
+      "last_player": 0
+    }
+  ],
+  "addresses": [
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null"
+  ]
+}

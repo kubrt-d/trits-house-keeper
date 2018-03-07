@@ -1,0 +1,25 @@
+{
+  "name": "trits-house-keeper",
+  "description": "A daemon for maintaining The Trits Game dashboard and status",
+  "repository": "git://github.com/kubrt-d/trits-house-keeper.git",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "tritshk.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "async-polling": "^0.2.1",
+    "body-parser": "^1.18.2",
+    "express": "~4.0.0",
+    "minimist": "^1.2.0",
+    "moment": "^2.19.2",
+    "request-promise": "^4.2.2",
+    "trits-core": "^1.0.0",
+    "winston": "^2.4.0"
+  },
+  "devDependencies": {
+    "mocha": "2.x",
+    "request": "^2.83.0"
+  }
+}
